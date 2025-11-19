@@ -1,0 +1,7 @@
+Timestamp: 2025-11-19T11:42:11.376073
+Random source: https://www.idnes.cz
+Script directory: C:\Users\kluci\OneDrive\Plocha\programy\Kris226_2025_11_19
+Python executable: C:\Users\kluci\OneDrive\Plocha\programy\Kris226_2025_11_19\venv\Scripts\python.exe
+Python version: 3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]
+Public IP: 195.39.44.178
+Local IP: 172.16.2.166
